@@ -6,5 +6,5 @@
 ---
 ### 💼 **Languages**
 - 🔰 Python Novice 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSccZBGvOxFDBJe8KAHagtVn3wH0udXlVNn_1gpSf4XBFimwsHeevhrTAlsdw6hOUrsMQA&usqp=CAU)https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSccZBGvOxFDBJe8KAHagtVn3wH0udXlVNn_1gpSf4XBFimwsHeevhrTAlsdw6hOUrsMQA&usqp=CAU">
 
