@@ -1,12 +1,3 @@
-### **🔎 Overview**
-- 👋 Hi, I’m @Fen0312
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
-- 🗣 I speak English and Vietnamese
----
-### 💼 **Languages**
-- 🔰 Python Novice 
-
 
 <h1 align="center">Hi 👋, I'm Fen</h1>
 <h3 align="center">A passionate coder from Viet Nam</h3>
